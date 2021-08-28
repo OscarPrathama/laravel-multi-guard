@@ -1,0 +1,8 @@
+buat modelnya,
+buat migrationnnya
+buat controllernya
+buat home, login, registernya
+setting routenya di web.php
+setting Authentication Defaults, Guards, User Providers, & Resetting Passwords nya di config/auth.php
+setting routeIs nya di app\Http\Middleware\Authenticate.php
+setting $guard === 'guard_name' di RedirectIfAuthenticated.php
